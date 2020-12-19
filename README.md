@@ -17,7 +17,7 @@ For this project, I was interestested in using Stack Overflow data from 2017 to 
 
 1. Are Professional Dev Resourses Obtained and Shared in Stackoverflow?
 2. What Self-taught Type can Get Most Help from StackOver?
-3. What is the trend of programming technology (program language, framework, database, and platform) ?
+3. What is the trend of programming technology (program language, framework, database, and platform)?
 
 ## File Descriptions <a name="files"></a>
 
@@ -27,7 +27,7 @@ There is an additional `.py` file that runs the necessary code to obtain the fin
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here]().
+The main findings of the code can be found at the post available [here](https://github.com/QianM2020/DS-Daily.github.io/blob/gh-pages/index.md).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
